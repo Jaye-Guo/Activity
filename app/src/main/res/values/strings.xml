@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Quote</string>
+    <string name="put_message">Write Quote</string>
+    <string name="get_message">Show Quote</string>
+    <string name="OK">OK</string>
+    <string name="yourQuote">Write your quote</string>
+</resources>
